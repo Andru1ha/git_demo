@@ -6,3 +6,5 @@ and then go 3 steps forward
 put the gun down
 
 it will be reverted
+
+i added new feature in the project
