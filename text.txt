@@ -4,3 +4,5 @@ and then go 3 steps forward
 1010100101001010101
 
 put the gun down
+
+it will be reverted
