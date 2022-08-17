@@ -6,3 +6,5 @@ and then go 3 steps forward
 maybe a conflict reason
 
 another conflict reason
+
+i make some new changes
