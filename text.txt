@@ -8,3 +8,5 @@ maybe a conflict reason
 another conflict reason
 
 now i'm not a conflict person
+
+i make some new changes
